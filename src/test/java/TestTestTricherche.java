@@ -1,6 +1,6 @@
 import org.junit.*;
 import static org.junit.Assert.*;
-public class TestTriCherche {
+public class TestTestTricherche {
 
 	/*public static void main(String[] args) {
 	TriCherche un = new TriCherche();
